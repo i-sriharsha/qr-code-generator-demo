@@ -1,2 +1,2 @@
 # qr-code-generator-demo
-QR Code Generator 
+QR Code Generator - Sriharsha 
